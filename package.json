@@ -1,0 +1,19 @@
+{
+  "name": "af-node.js-lab03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MethmiNPCS/AF-Node.js-Lab03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MethmiNPCS/AF-Node.js-Lab03/issues"
+  },
+  "homepage": "https://github.com/MethmiNPCS/AF-Node.js-Lab03#readme"
+}
